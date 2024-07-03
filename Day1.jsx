@@ -5,7 +5,7 @@ import { useState } from 'react'
 
 
 
-function App() {
+function App1() {
 	
     const [counter, setCounter] = useState(0)
 
